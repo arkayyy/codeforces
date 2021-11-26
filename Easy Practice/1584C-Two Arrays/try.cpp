@@ -18,8 +18,6 @@ int main()
         vector<int> a(n, 0);
         vector<int> b(n, 0);
 
-        unordered_map<int, int> mp;
-
         for (int i = 0; i < n; i++)
             cin >> a[i];
         for (int i = 0; i < n; i++)
